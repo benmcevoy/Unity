@@ -60,9 +60,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Radio.Unity.Decorators\Radio.Unity.Decorators.csproj">
+    <ProjectReference Include="..\Radio7.Unity.Decorators\Radio7.Unity.Decorators.csproj">
       <Project>{a682dc87-cb44-414e-a49c-268a9433f690}</Project>
-      <Name>Radio.Unity.Decorators</Name>
+      <Name>Radio7.Unity.Decorators</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
