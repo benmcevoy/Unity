@@ -1,6 +1,6 @@
 # Unity Lifestyle Decorations
 
-Some simple lifestyle registration attributes that for Unity.
+Some simple lifestyle registration attributes for Unity.
 
 Register as [Singleton], [Transient] or [PerHttpRequest]
 
