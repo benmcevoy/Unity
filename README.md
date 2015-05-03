@@ -16,7 +16,7 @@ Default behavours
 
 Unnamed registration have the default unity behaviour of a null name.
 
-Registrations that do not target a specific interface are registerde for all implemented interfaces of the class and for the concrete instance of the class.
+Registrations that do not target a specific interface are registered for all implemented interfaces of the class and for the concrete instance of the class.
 
 e.g.
 
