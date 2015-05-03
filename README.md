@@ -1,4 +1,4 @@
-# Unity
+# Unity Lifestyle Decorations
 
 Some simple lifestyle registration attributes that for Unity.
 
