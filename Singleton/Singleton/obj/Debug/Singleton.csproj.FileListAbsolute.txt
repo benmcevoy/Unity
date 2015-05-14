@@ -1,1 +1,14 @@
 D:\Dev\git\Unity\Singleton\Singleton\bin\Debug\Singleton.exe.config
+D:\Dev\git\Unity\Singleton\Singleton\bin\Debug\Singleton.exe
+D:\Dev\git\Unity\Singleton\Singleton\bin\Debug\Singleton.pdb
+D:\Dev\git\Unity\Singleton\Singleton\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Dev\git\Unity\Singleton\Singleton\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Dev\git\Unity\Singleton\Singleton\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Dev\git\Unity\Singleton\Singleton\bin\Debug\Radio7.Unity.Decorators.dll
+D:\Dev\git\Unity\Singleton\Singleton\bin\Debug\Radio7.Unity.Decorators.pdb
+D:\Dev\git\Unity\Singleton\Singleton\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Dev\git\Unity\Singleton\Singleton\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Dev\git\Unity\Singleton\Singleton\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Dev\git\Unity\Singleton\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+D:\Dev\git\Unity\Singleton\Singleton\obj\Debug\Singleton.exe
+D:\Dev\git\Unity\Singleton\Singleton\obj\Debug\Singleton.pdb
